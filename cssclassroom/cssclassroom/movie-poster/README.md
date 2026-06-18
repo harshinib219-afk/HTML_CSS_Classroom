@@ -20,5 +20,7 @@ This project displays movie posters in a clean and attractive grid layout. It in
 - CSS3
 - Google Fonts (Poppins)
 
+## 🌐 Live Demo
 
+[Click here to view live demo](https://movie-poster-gallery.onrender.com)
 
